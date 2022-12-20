@@ -1,1 +1,2 @@
 HELLO EVERYONE! THIS IS A TEST TO SEE HOW GIT WORKS.
+I am now adding another line of text.
